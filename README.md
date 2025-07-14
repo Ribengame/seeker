@@ -237,3 +237,7 @@ as an alterntive to ngrok
 <a href="https://odysee.com/@thewhiteh4t:2/seeker_v126_demo:e">
   <img src="https://thumbnails.odycdn.com/optimize/s:1024:768/quality:85/plain/https://thumbs.odycdn.com/5ce9ed06e0ce8a995987dba0949dbc9a.webp">
 </a>
+
+## Info
+
+This repository is intended for legal and ethical purposes only. It contains tools designed for educational use, security research, and penetration testing, with the aim of improving system security. All activities carried out with the tools in this repository should be performed with proper authorization and consent from the system owner. Any use of these tools for malicious or unauthorized actions is strictly prohibited and violates the repository's purpose.
